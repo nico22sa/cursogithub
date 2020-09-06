@@ -5,12 +5,12 @@ Este es un ejercicio de Azul School y para poder dar **Enter** y escribir abajo 
 > Si estudias hoy no te preocuparas mañana
 
 ### Listas numeradas
-[//]:#(Comentario lista numerada)
+[//]:# (Comentario lista numerada)
 1. Index.html
 2. Primero.txt
 
 ### Listas sin numerar
-[//]:#(Comentario lista no numerada)
+[//]:# (Comentario lista no numerada)
 * **Tango**
 * **Romeo**
 * **Zulu**
